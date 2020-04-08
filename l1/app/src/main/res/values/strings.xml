@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">l1</string>
+    <string name="Ok">Ok</string>
+    <string name="Liters" />
+    <string name="liters">Liters</string>
+    <string name="result" />
+    <string name="galons">Galons</string>
+    <string name="help">HELP!</string>
+</resources>
